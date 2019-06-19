@@ -51,18 +51,7 @@ private String database;
         } public void setPort(int port) {
                 this.port = port;
         }
-        public String getProtocol() {
-                return protocol;
-        }
-        public void setProtocol(String protocol) {
-                this.protocol = protocol;
-        }
-        public String getDatabase() {
-                return database;
-        }
-        public void setDatabase(String database) {
-                this.database = database;
-        }
+        
 }
       
   
